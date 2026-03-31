@@ -27,14 +27,13 @@ export default function Navbar() {
             letterSpacing: "0.5px",
           }}
         >
-          Kaleb<span style={{ color: "var(--accent)" }}>.</span>
+          Kaleb Stephens<span style={{ color: "var(--accent)" }}></span>
         </a>
 
         <nav style={{ display: "flex", gap: "20px", flexWrap: "wrap" }}>
-          <a className="nav-link" href="#about">About</a>
-          <a className="nav-link" href="#projects">Projects</a>
-          <a className="nav-link" href="#skills">Skills</a>
-          <a className="nav-link" href="#contact">Contact</a>
+        <a className="nav-link" href="#about">About</a>
+        <a className="nav-link" href="#projects">Projects</a>
+        <a className="nav-link" href="#skills">Skills</a>
         </nav>
       </div>
     </header>

@@ -25,8 +25,6 @@ export default function Projects() {
       <div className="container">
         <h2 className="section-title">Projects</h2>
         <p className="section-text" style={{ marginBottom: "28px" }}>
-          These are a few example projects that can live on your portfolio. Later you can replace
-          them with your real screenshots, GitHub links, and live demos.
         </p>
 
         <div

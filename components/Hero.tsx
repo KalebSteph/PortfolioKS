@@ -20,14 +20,14 @@ export default function Hero() {
             <h1
               style={{
                 fontFamily: "var(--font-heading), serif",
-                fontSize: "clamp(2.8rem, 6vw, 5rem)",
+                fontSize: "clamp(2.8rem, 6vw, 3rem)",
                 lineHeight: 1.05,
                 marginBottom: "18px",
               }}
             >
-              Building apps and websites
+              Welcome. 
               <br />
-              that feel modern and clean.
+              I'm [Kaleb Stephens, Frontend Developer].
             </h1>
 
             <p
@@ -38,16 +38,12 @@ export default function Hero() {
                 marginBottom: "28px",
               }}
             >
-              I’m creating a practice portfolio in Next.js to showcase projects,
-              skills, and design work in a layout that feels different from the usual timeline format.
+              I’m currently a student at Fort Hays Tech | Northwest and will graduating May(2026) with an Associates in App Development. I also play basketball for the college and have my App Development with Swift Associate certification.
             </p>
 
             <div style={{ display: "flex", gap: "14px", flexWrap: "wrap" }}>
               <a href="#projects" className="btn btn-primary">
                 View Projects
-              </a>
-              <a href="#contact" className="btn btn-secondary">
-                Contact Me
               </a>
             </div>
           </div>
