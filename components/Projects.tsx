@@ -44,7 +44,7 @@ export default function Projects() {
                   borderRadius: "18px",
                   marginBottom: "18px",
                   background:
-                    "linear-gradient(135deg, rgba(192,132,252,0.35), rgba(139,92,246,0.08), rgba(255,255,255,0.03))",
+                  "linear-gradient(135deg, rgba(37,99,235,0.35), rgba(30,64,175,0.08), rgba(255,255,255,0.03))",
                   border: "1px solid rgba(255,255,255,0.06)",
                 }}
               />

@@ -83,6 +83,7 @@ section {
 
 .btn-primary:hover {
   background: var(--accent-light);
+  box-shadow: 0 0 20px rgba(37, 99, 235, 0.4);
 }
 
 .btn-secondary {
@@ -99,8 +100,8 @@ section {
 .tag {
   padding: 10px 16px;
   border-radius: 999px;
-  background: rgba(192, 132, 252, 0.12);
-  border: 1px solid rgba(192, 132, 252, 0.25);
+  background: rgba(37, 99, 235, 0.12);
+  border: 1px solid rgba(37, 99, 235, 0.25);
   color: var(--accent-light);
   font-size: 0.95rem;
 }
