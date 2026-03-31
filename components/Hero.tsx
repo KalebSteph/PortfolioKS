@@ -56,8 +56,8 @@ export default function Hero() {
             style={{
               minHeight: "360px",
               borderRadius: "26px",
-              background:
-                "radial-gradient(circle at top, rgba(192,132,252,0.5), rgba(139,92,246,0.15), transparent 70%), linear-gradient(135deg, #1f1f2b, #14141c)",
+             background:
+              "radial-gradient(circle at top, rgba(37,99,235,0.5), rgba(30,64,175,0.2), transparent 70%), linear-gradient(135deg, #1f1f2b, #14141c)",
               border: "1px solid rgba(255,255,255,0.08)",
             }}
           />
