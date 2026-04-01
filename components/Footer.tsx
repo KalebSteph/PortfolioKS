@@ -11,7 +11,7 @@ export default function Footer() {
           alignItems: "center",
         }}
       >
-        <p>© 2026 Kaleb Portfolio Practice</p>
+        <p>© 2026 Kaleb Stephens</p>
 
         <div style={{ display: "flex", gap: "16px" }}>
           <a href="#">GitHub</a>

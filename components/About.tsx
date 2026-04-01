@@ -5,7 +5,7 @@ export default function About() {
         <h2 className="section-title">About Me</h2>
         <p className="section-text" style={{ marginBottom: "28px" }}>
           I enjoy building mobile apps, websites, and UI-focused projects that look modern
-          and are easy to use/navigate. I'm also a basketball player and balancing the two is an extremely useful skill I've developed along this journey.
+          and are easy to use/navigate. I am also skilled in part of DevOps, using GitHub.
         </p>
 
         <div
