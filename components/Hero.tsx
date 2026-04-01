@@ -61,7 +61,7 @@ export default function Hero() {
   }}
 >
   <Image
-    src="/Portrait .jpg"
+    src="/Portrait.JPG"
     alt="Profile"
     fill
     style={{
