@@ -12,8 +12,8 @@ const inter = Inter({
 });
 
 export const metadata = {
-  title: "My Portfolio",
-  description: "Practice portfolio built with Next.js",
+  title: "Kaleb's Portfolio",
+  description: "My developer portfolio",
 };
 
 export default function RootLayout({

@@ -24,7 +24,8 @@ html {
 }
 
 body {
-  background: linear-gradient(to bottom, #11111a, #0f0f14);
+  background-color: #0b1f3a; /* 🔥 dark blue */
+  color: white;
   color: var(--text);
   font-family: var(--font-body), sans-serif;
 }
