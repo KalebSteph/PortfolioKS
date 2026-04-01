@@ -40,7 +40,7 @@ export default function Hero() {
                 marginBottom: "28px",
               }}
             >
-              I’m currently a student at Fort Hays Tech | Northwest and will graduating May(2026) with an Associates in App Development. I also play basketball for the college, cut hair and have my App Development with Swift Associate certification.
+              I’m currently a student at Fort Hays Tech | Northwest and will graduating May(2026) with an Associates in App Development. I also am a beginner barber, play basketball for the college, and have my App Development with Swift Associate certification.
             </p>
 
             <div style={{ display: "flex", gap: "14px", flexWrap: "wrap" }}>
