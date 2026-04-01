@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 export default function Hero() {
   return (
     <section id="home">
@@ -49,14 +51,34 @@ export default function Hero() {
           </div>
 
           <div
-            style={{
-              minHeight: "360px",
-              borderRadius: "26px",
-             background:
-              "radial-gradient(circle at top, rgba(37,99,235,0.5), rgba(30,64,175,0.2), transparent 70%), linear-gradient(135deg, #1f1f2b, #14141c)",
-              border: "1px solid rgba(255,255,255,0.08)",
-            }}
-          />
+  style={{
+    position: "relative",
+    width: "100%",
+    height: "380px",
+    borderRadius: "26px",
+    overflow: "hidden",
+    border: "1px solid rgba(255,255,255,0.08)",
+  }}
+>
+  <Image
+    src="/Portrait .jpg"
+    alt="Profile"
+    fill
+    style={{
+      objectFit: "cover",
+    }}
+  />
+
+  {/* Optional overlay for style */}
+  <div
+    style={{
+      position: "absolute",
+      inset: 0,
+      background:
+        "linear-gradient(to top, rgba(0,0,0,0.4), transparent 60%)",
+    }}
+  />
+</div>
         </div>
       </div>
     </section>
