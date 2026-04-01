@@ -29,7 +29,7 @@ export default function Hero() {
             >
               Welcome. 
               <br />
-              I'm [Kaleb Stephens, Frontend Developer].
+              I'm [Kaleb Stephens, Frontend Developer]
             </h1>
 
             <p

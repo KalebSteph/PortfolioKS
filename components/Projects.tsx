@@ -12,10 +12,10 @@ const projects = [
     tech: ["Kotlin", "Jetpack Compose", "Google Maps"],
   },
   {
-    title: "Portfolio Practice Site",
+    title: "System Health Frontend Server",
     description:
-      "A custom portfolio built in Next.js with a different visual style, layout, and organization.",
-    tech: ["Next.js", "TypeScript", "Responsive Design"],
+      "A custom server used to track system health metrics, computer specs, and performance data.",
+    tech: ["Next.js", "TypeScript", "Responsive Design", "Docker", "Node.js"],
   },
 ];
 

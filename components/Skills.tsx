@@ -5,19 +5,26 @@ const skills = [
   "Next.js",
   "TypeScript",
   "HTML",
-  "CSS",
+  "Tailwind CSS",
   "JavaScript",
   "Firebase",
   "GitHub",
-  "Node.js",
+  "Vercel",
   "MySQL",
+  "Docker",
+  "React Native",
+  "Visual Studio Code",
+  "Figma",
+  "Angular",
+  "UI/UX Design",
+  "Kotlin Multiplatform",
 ];
 
 export default function Skills() {
   return (
     <section id="skills">
       <div className="container">
-        <h2 className="section-title">Skills</h2>
+        <h2 className="section-title">Tech Stack</h2>
         <p className="section-text" style={{ marginBottom: "28px" }}>
         </p>
 
