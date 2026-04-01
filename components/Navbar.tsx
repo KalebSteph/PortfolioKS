@@ -6,7 +6,7 @@ export default function Navbar() {
         top: 0,
         zIndex: 1000,
         backdropFilter: "blur(14px)",
-        background: "rgba(15, 15, 20, 0.75)",
+        background: "rgba(2, 6, 23, 0.75)",
         borderBottom: "1px solid rgba(255,255,255,0.06)",
       }}
     >

@@ -1,7 +1,7 @@
 :root {
-  --bg: #0f0f14;
-  --bg-soft: #181822;
-  --card: #20202c;
+  --bg: #020617;       
+  --bg-soft: #0a192f;  
+  --card: #0f172a;     
 
   --accent: #3b82f6;        
   --accent-dark: #2563eb;  
@@ -24,7 +24,7 @@ html {
 }
 
 body {
-  background: linear-gradient(to bottom, #11111a, #0f0f14);
+  background: linear-gradient(to bottom, #0a192f, #020617);
   color: var(--text);
   font-family: var(--font-body), sans-serif;
 }
@@ -61,7 +61,7 @@ section {
 }
 
 .card {
-  background: rgba(32, 32, 44, 0.9);
+  background: rgba(15, 23, 42, 0.9);
   border: 1px solid var(--border);
   border-radius: 24px;
   box-shadow: var(--shadow);
