@@ -137,6 +137,15 @@ footer {
   color: var(--muted);
 }
 
+footer a {
+  color: var(--muted);
+  transition: 0.2s ease;
+}
+
+footer a:hover {
+  color: var(--accent);
+}
+
 @media (max-width: 900px) {
   section {
     padding: 70px 20px;
